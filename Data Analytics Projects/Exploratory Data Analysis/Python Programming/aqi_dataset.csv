@@ -1,0 +1,1726 @@
+state_name,county_name,aqi
+California,Alameda,11
+California,Butte,6
+California,Fresno,11
+California,Kern,7
+California,Kern,3
+California,Kern,7
+California,Los Angeles,13
+California,Los Angeles,18
+California,Mono,5
+California,Sacramento,35
+California,San Bernardino,18
+California,San Diego,23
+California,Santa Barbara,0
+California,Shasta,11
+Pennsylvania,Erie,7
+Pennsylvania,Philadelphia,13
+Texas,Bexar,22
+California,Humboldt,30
+California,Humboldt,11
+California,Riverside,18
+California,San Bernardino,11
+California,San Bernardino,22
+California,San Bernardino,11
+California,San Diego,24
+California,Santa Barbara,11
+California,Santa Barbara,7
+California,Santa Clara,11
+California,Sonoma,11
+California,Stanislaus,0
+Pennsylvania,Dauphin,6
+Pennsylvania,Lancaster,5
+Pennsylvania,Philadelphia,10
+Texas,Bexar,6
+Texas,Dallas,2
+California,Butte,9
+California,Kern,19
+California,Los Angeles,23
+California,Los Angeles,33
+California,Los Angeles,10
+California,Monterey,16
+California,Placer,13
+California,Santa Barbara,47
+California,Santa Barbara,0
+California,Santa Clara,6
+California,Tulare,11
+Pennsylvania,Berks,19
+Pennsylvania,Berks,16
+Pennsylvania,Erie,18
+Pennsylvania,Lackawanna,5
+Pennsylvania,Philadelphia,13
+Pennsylvania,Washington,9
+Texas,El Paso,47
+California,Alameda,11
+California,Contra Costa,15
+California,El Dorado,16
+California,Fresno,5
+California,Mendocino,0
+California,Riverside,13
+California,Riverside,40
+California,San Diego,10
+California,Solano,3
+Pennsylvania,Allegheny,5
+Pennsylvania,Luzerne,11
+Texas,Bexar,34
+Texas,Bexar,18
+Texas,Dallas,25
+Texas,El Paso,7
+Texas,El Paso,18
+Texas,Harris,14
+California,Alameda,11
+California,Butte,14
+California,El Dorado,8
+California,El Dorado,6
+California,Fresno,35
+California,Los Angeles,38
+California,Los Angeles,22
+California,Los Angeles,93
+California,Los Angeles,10
+California,Los Angeles,11
+California,Placer,6
+California,Riverside,43
+California,San Bernardino,5
+California,San Diego,16
+California,San Diego,7
+California,San Luis Obispo,13
+California,Santa Clara,10
+California,Ventura,7
+Pennsylvania,Allegheny,9
+Pennsylvania,Allegheny,22
+Pennsylvania,Lackawanna,11
+Pennsylvania,Schuylkill,9
+Texas,El Paso,40
+Texas,El Paso,30
+Texas,Harris,11
+Texas,Harris,16
+Texas,Tarrant,10
+California,El Dorado,18
+California,Los Angeles,17
+California,Los Angeles,24
+California,Marin,8
+California,Monterey,7
+California,Monterey,1
+California,Napa,10
+California,Placer,16
+California,San Bernardino,6
+California,San Diego,6
+California,San Francisco,20
+California,San Luis Obispo,6
+California,Sutter,28
+California,Tulare,8
+California,Ventura,19
+Pennsylvania,Allegheny,8
+Pennsylvania,Beaver,7
+Pennsylvania,Cambria,23
+Pennsylvania,Schuylkill,6
+Texas,Harris,9
+Texas,Harris,34
+Texas,Tarrant,5
+California,Fresno,23
+California,Kern,8
+California,Los Angeles,20
+California,Monterey,6
+California,Orange,47
+California,Orange,3
+California,Placer,10
+California,Sacramento,7
+California,Sacramento,5
+California,San Bernardino,2
+California,San Bernardino,10
+California,San Francisco,8
+California,San Joaquin,3
+California,San Joaquin,5
+California,Santa Clara,10
+Pennsylvania,Dauphin,16
+Pennsylvania,Dauphin,14
+Pennsylvania,Philadelphia,24
+Texas,El Paso,40
+Texas,El Paso,15
+Texas,Harris,9
+Texas,Harris,11
+Texas,Tarrant,15
+Texas,Travis,11
+California,Alameda,15
+California,Calaveras,3
+California,Contra Costa,13
+California,Fresno,15
+California,Los Angeles,59
+California,Orange,16
+California,Sacramento,20
+California,Sacramento,5
+California,San Diego,24
+California,San Diego,6
+California,San Francisco,16
+California,San Francisco,16
+California,Santa Barbara,2
+California,Sutter,5
+California,Tulare,17
+Pennsylvania,Allegheny,15
+Pennsylvania,Erie,6
+Pennsylvania,Monroe,1
+Pennsylvania,Washington,2
+Pennsylvania,Washington,0
+Pennsylvania,Westmoreland,1
+Texas,Bexar,11
+Texas,Webb,10
+California,Alameda,5
+California,Alameda,11
+California,El Dorado,23
+California,Los Angeles,13
+California,Los Angeles,20
+California,Mendocino,8
+California,Sonoma,17
+Pennsylvania,Bucks,5
+Pennsylvania,Lackawanna,0
+Pennsylvania,Philadelphia,11
+Texas,Bexar,14
+Texas,Dallas,6
+Texas,El Paso,10
+Texas,El Paso,15
+California,El Dorado,6
+California,Los Angeles,14
+California,Los Angeles,28
+California,Los Angeles,16
+California,Orange,10
+California,Orange,47
+California,Sacramento,14
+California,San Diego,39
+California,Santa Barbara,2
+California,Santa Barbara,2
+California,Santa Clara,36
+California,Solano,14
+California,Yolo,6
+Pennsylvania,Allegheny,3
+Pennsylvania,Lawrence,14
+Pennsylvania,Lehigh,2
+Pennsylvania,Washington,1
+Pennsylvania,Westmoreland,0
+Pennsylvania,Westmoreland,1
+Pennsylvania,York,1
+Texas,Bexar,7
+Texas,El Paso,6
+Texas,Webb,18
+California,Alameda,6
+California,Contra Costa,8
+California,El Dorado,1
+California,Imperial,13
+California,Los Angeles,9
+California,Los Angeles,17
+California,Orange,5
+California,Riverside,7
+California,Riverside,8
+California,San Diego,6
+California,Tulare,10
+California,Tulare,5
+California,Ventura,5
+California,Ventura,2
+Pennsylvania,Allegheny,5
+Pennsylvania,Bucks,9
+Pennsylvania,Philadelphia,8
+Texas,Bexar,8
+Texas,El Paso,1
+Texas,El Paso,7
+Texas,El Paso,2
+Texas,El Paso,8
+Texas,Harris,3
+Texas,Harris,3
+Texas,Webb,6
+California,Fresno,9
+California,Los Angeles,14
+California,Mendocino,17
+California,Sacramento,5
+California,Sacramento,5
+California,San Bernardino,3
+California,Ventura,5
+Pennsylvania,Allegheny,10
+Pennsylvania,Allegheny,15
+Pennsylvania,Beaver,6
+Pennsylvania,Erie,7
+Pennsylvania,Lackawanna,5
+Pennsylvania,Montgomery,3
+Texas,El Paso,5
+California,Alameda,20
+California,Contra Costa,8
+California,Imperial,3
+California,Kern,2
+California,Los Angeles,2
+California,Los Angeles,24
+California,Los Angeles,14
+California,Marin,16
+California,Placer,6
+California,Riverside,11
+California,San Diego,10
+California,San Diego,32
+California,San Joaquin,6
+California,Santa Barbara,5
+California,Santa Barbara,3
+California,Sutter,5
+Pennsylvania,Bucks,1
+Pennsylvania,Cambria,11
+Pennsylvania,Cambria,7
+Pennsylvania,Philadelphia,7
+Pennsylvania,Washington,1
+Texas,Tarrant,6
+Texas,Webb,6
+California,Alameda,5
+California,Butte,11
+California,Contra Costa,6
+California,Fresno,10
+California,Fresno,3
+California,Orange,6
+California,Sacramento,9
+California,San Bernardino,6
+California,San Bernardino,17
+California,San Mateo,9
+California,Santa Barbara,3
+California,Solano,5
+California,Stanislaus,6
+Pennsylvania,Allegheny,7
+Pennsylvania,Allegheny,2
+Pennsylvania,Bucks,17
+Pennsylvania,Philadelphia,2
+Pennsylvania,Washington,3
+Texas,El Paso,5
+Texas,El Paso,6
+California,Contra Costa,3
+California,Imperial,26
+California,Imperial,0
+California,Los Angeles,5
+California,Los Angeles,3
+California,Los Angeles,3
+California,Los Angeles,7
+California,Riverside,7
+California,San Diego,9
+California,San Francisco,10
+California,Santa Cruz,3
+Pennsylvania,Adams,3
+Pennsylvania,Berks,8
+Texas,El Paso,14
+Texas,El Paso,5
+Texas,El Paso,9
+Texas,Harris,10
+California,Contra Costa,5
+California,Los Angeles,6
+California,Monterey,7
+California,Sacramento,9
+Pennsylvania,Beaver,5
+Pennsylvania,Lawrence,15
+Pennsylvania,Northampton,0
+Pennsylvania,Philadelphia,17
+Pennsylvania,Washington,2
+Texas,Bexar,8
+Texas,El Paso,14
+Texas,El Paso,7
+Texas,Harris,16
+Texas,Tarrant,8
+Texas,Bexar,5
+Texas,El Paso,5
+California,Contra Costa,6
+California,Sacramento,3
+Texas,El Paso,8
+California,Los Angeles,23
+Texas,Harris,3
+Texas,Harris,2
+Pennsylvania,Allegheny,1
+Texas,El Paso,2
+Pennsylvania,Lackawanna,0
+California,Alameda,5
+California,Alameda,8
+California,Humboldt,2
+California,Los Angeles,5
+California,Mendocino,3
+California,Orange,6
+California,Riverside,7
+Pennsylvania,Allegheny,8
+Pennsylvania,Blair,5
+Pennsylvania,Lackawanna,2
+Pennsylvania,Philadelphia,8
+Texas,Cameron,8
+Texas,Dallas,0
+Texas,El Paso,10
+Texas,El Paso,27
+Texas,Harris,2
+Texas,Harris,6
+Texas,Jefferson,3
+Pennsylvania,Blair,0
+California,Monterey,5
+California,Monterey,6
+California,Orange,6
+California,Santa Barbara,6
+California,Los Angeles,5
+California,Solano,5
+California,Contra Costa,2
+Texas,El Paso,11
+Pennsylvania,Erie,8
+Texas,Bexar,7
+Pennsylvania,Beaver,5
+California,Mendocino,7
+California,Imperial,13
+Pennsylvania,Westmoreland,0
+Pennsylvania,Allegheny,10
+California,San Diego,6
+California,Sonoma,3
+Texas,Tarrant,9
+Texas,Harris,5
+California,San Francisco,6
+Texas,Webb,8
+California,Humboldt,3
+California,Riverside,2
+California,Los Angeles,10
+California,San Bernardino,7
+Texas,El Paso,5
+California,Fresno,2
+Texas,El Paso,6
+Pennsylvania,Allegheny,7
+California,Calaveras,2
+California,Fresno,8
+California,Imperial,10
+California,Imperial,9
+California,Imperial,0
+California,Los Angeles,13
+California,Mendocino,5
+California,Placer,5
+California,San Bernardino,6
+California,San Bernardino,17
+California,San Mateo,13
+California,Santa Clara,8
+California,Santa Cruz,5
+California,Tuolumne,11
+Pennsylvania,Dauphin,6
+Pennsylvania,Dauphin,3
+Pennsylvania,Erie,14
+Pennsylvania,Schuylkill,0
+Pennsylvania,Westmoreland,0
+Texas,El Paso,3
+Texas,Tarrant,7
+Texas,Travis,5
+Texas,McLennan,3
+California,San Joaquin,15
+California,Imperial,2
+California,Contra Costa,8
+California,Butte,3
+California,San Bernardino,2
+California,Los Angeles,9
+California,Santa Barbara,2
+California,Contra Costa,8
+California,San Bernardino,13
+California,Orange,0
+California,Sacramento,5
+Texas,El Paso,11
+Pennsylvania,Dauphin,6
+California,Orange,0
+Pennsylvania,Allegheny,2
+Pennsylvania,Allegheny,3
+California,Humboldt,1
+California,Santa Barbara,2
+Texas,Harris,5
+California,Stanislaus,23
+California,San Joaquin,2
+California,Butte,10
+California,Alameda,5
+Pennsylvania,Adams,1
+California,Santa Barbara,2
+California,Santa Barbara,2
+California,Riverside,6
+California,San Bernardino,5
+California,Santa Barbara,2
+California,Sacramento,6
+Texas,El Paso,9
+California,Los Angeles,6
+Texas,El Paso,11
+Pennsylvania,Allegheny,2
+Pennsylvania,Allegheny,5
+California,San Francisco,5
+Texas,McLennan,1
+California,San Mateo,3
+Texas,Jefferson,2
+California,Santa Barbara,6
+California,Alameda,1
+Texas,El Paso,10
+California,Los Angeles,6
+California,Los Angeles,16
+California,Santa Barbara,0
+California,San Diego,2
+California,Sacramento,20
+California,Fresno,5
+California,Fresno,6
+Texas,El Paso,5
+Pennsylvania,Bucks,6
+California,Santa Clara,7
+California,Humboldt,2
+Texas,Harris,2
+Pennsylvania,Erie,9
+California,Los Angeles,5
+Pennsylvania,Lawrence,5
+California,Los Angeles,1
+California,San Bernardino,5
+California,San Bernardino,6
+California,Los Angeles,3
+California,Los Angeles,1
+California,Imperial,2
+California,Sutter,1
+California,Riverside,2
+California,Los Angeles,1
+California,Los Angeles,2
+California,Humboldt,2
+Texas,Webb,9
+Texas,Jefferson,1
+California,Orange,8
+California,Los Angeles,8
+California,Fresno,3
+California,Fresno,6
+California,Santa Barbara,2
+Texas,Tarrant,2
+California,San Bernardino,9
+Pennsylvania,Cambria,2
+California,San Bernardino,6
+California,Orange,3
+California,Los Angeles,5
+California,San Mateo,5
+Pennsylvania,Philadelphia,6
+California,Santa Barbara,5
+California,Humboldt,2
+California,Los Angeles,5
+Texas,McLennan,1
+California,San Diego,6
+California,Orange,0
+Pennsylvania,Cambria,3
+Texas,Tarrant,5
+California,Sacramento,5
+Texas,Travis,6
+California,Alameda,6
+California,Sacramento,5
+California,Napa,8
+California,Imperial,2
+California,Marin,6
+California,Contra Costa,5
+Texas,Bexar,3
+California,Los Angeles,7
+Texas,Tarrant,5
+California,Solano,2
+Pennsylvania,Philadelphia,2
+California,Fresno,7
+Pennsylvania,Allegheny,9
+California,San Diego,5
+California,San Francisco,6
+Texas,Bexar,1
+California,Inyo,7
+Texas,Tarrant,5
+California,Santa Barbara,0
+California,Monterey,1
+Pennsylvania,Lackawanna,3
+California,Los Angeles,2
+California,Sacramento,3
+Texas,Harris,7
+California,Orange,3
+California,Orange,11
+California,Los Angeles,3
+Pennsylvania,Cambria,0
+California,Santa Barbara,5
+California,Los Angeles,5
+Texas,Webb,7
+Texas,Webb,9
+California,Santa Barbara,2
+Texas,Jefferson,2
+California,Imperial,2
+Texas,El Paso,1
+California,Contra Costa,6
+California,Riverside,2
+California,Riverside,1
+California,Imperial,3
+California,Alameda,3
+California,Alameda,6
+Texas,El Paso,2
+California,Orange,9
+California,Santa Barbara,3
+California,Los Angeles,2
+California,Los Angeles,3
+California,Alameda,5
+California,Santa Barbara,1
+California,San Diego,7
+California,San Diego,8
+California,Orange,3
+California,Orange,6
+California,Los Angeles,5
+California,Fresno,2
+Pennsylvania,Allegheny,3
+Arizona,Maricopa,18
+Arizona,Maricopa,9
+Arizona,Pima,20
+Colorado,El Paso,9
+Florida,Duval,15
+Florida,Duval,13
+Florida,Hillsborough,19
+Hawaii,Honolulu,10
+Illinois,Sangamon,20
+Indiana,Marion,32
+Kentucky,Henderson,8
+Kentucky,Jefferson,6
+Kentucky,McCracken,13
+Kentucky,McCracken,13
+Louisiana,East Baton Rouge,5
+Maryland,Baltimore (City),33
+Massachusetts,Suffolk,13
+Michigan,Wayne,19
+Minnesota,Saint Louis,16
+Missouri,Saint Louis,10
+New Jersey,Bergen,41
+New Jersey,Middlesex,17
+New Mexico,Bernalillo,11
+New Mexico,San Juan,6
+New York,New York,13
+New York,New York,24
+New York,Niagara,13
+North Carolina,Mecklenburg,28
+Ohio,Franklin,10
+Ohio,Hamilton,17
+Oklahoma,Oklahoma,14
+Oregon,Klamath,31
+Oregon,Multnomah,28
+Tennessee,Shelby,38
+Utah,Salt Lake,19
+Vermont,Chittenden,18
+Vermont,Chittenden,20
+Virginia,Fairfax,39
+Virginia,Norfolk City,15
+Virginia,Richmond City,17
+Washington,King,55
+Washington,King,22
+Washington,Yakima,35
+Wisconsin,Milwaukee,10
+Arizona,Maricopa,56
+Arizona,Pima,30
+Colorado,Boulder,28
+Colorado,El Paso,9
+Colorado,El Paso,9
+Hawaii,Honolulu,6
+Illinois,Sangamon,26
+Indiana,Marion,27
+Iowa,Polk,14
+Kansas,Sedgwick,16
+Louisiana,Orleans,5
+Maryland,Allegany,9
+Maryland,Montgomery,24
+Michigan,Wayne,17
+Minnesota,Hennepin,16
+Missouri,Clay,6
+Missouri,Jackson,3
+Montana,Missoula,14
+Nevada,Washoe,52
+Nevada,Washoe,8
+New Jersey,Camden,7
+New Mexico,San Juan,17
+New Mexico,San Juan,14
+New York,Monroe,18
+New York,Niagara,6
+New York,Schenectady,19
+Ohio,Franklin,11
+Ohio,Lucas,13
+Oklahoma,Cleveland,7
+Oklahoma,Tulsa,13
+Oklahoma,Tulsa,16
+Tennessee,Shelby,74
+Utah,Davis,22
+Utah,Salt Lake,19
+Virginia,Fairfax,15
+Virginia,Alexandria City,13
+Virginia,Newport News City,8
+Washington,King,44
+Washington,Snohomish,76
+Washington,Spokane,32
+West Virginia,Greenbrier,2
+Wisconsin,Milwaukee,22
+Puerto Rico,San Juan,35
+Puerto Rico,San Juan,18
+Alabama,Jefferson,23
+Arizona,Maricopa,66
+Arizona,Maricopa,14
+Arizona,Maricopa,60
+Arizona,Pima,20
+Arizona,Pima,36
+Colorado,El Paso,25
+Colorado,El Paso,7
+Colorado,El Paso,10
+Colorado,El Paso,8
+District Of Columbia,District of Columbia,22
+Florida,Broward,17
+Florida,Broward,24
+Florida,Broward,15
+Florida,Hillsborough,13
+Georgia,DeKalb,8
+Illinois,Sangamon,16
+Indiana,St. Joseph,9
+Indiana,Vanderburgh,15
+Massachusetts,Suffolk,23
+Michigan,Macomb,31
+Minnesota,Ramsey,20
+Nebraska,Douglas,28
+Nevada,Clark,13
+New Jersey,Atlantic,26
+New Jersey,Bergen,11
+New Mexico,Bernalillo,13
+New York,Nassau,7
+New York,Niagara,9
+North Carolina,Mecklenburg,11
+Utah,Salt Lake,31
+Utah,Utah,42
+Utah,Utah,15
+Washington,Yakima,58
+Washington,Yakima,57
+Wisconsin,Milwaukee,14
+Wisconsin,Milwaukee,9
+Wisconsin,Racine,35
+Puerto Rico,San Juan,28
+Country Of Mexico,CHIHUAHUA STATE,45
+Arizona,Maricopa,8
+Arizona,Maricopa,18
+Arizona,Pima,16
+Arizona,Pima,30
+Arizona,Pima,5
+Colorado,Arapahoe,15
+Colorado,Denver,28
+Colorado,Larimer,5
+Colorado,Larimer,6
+Connecticut,Fairfield,24
+Florida,Broward,5
+Florida,Duval,13
+Florida,Duval,16
+Florida,Miami-Dade,43
+Hawaii,Honolulu,5
+Hawaii,Honolulu,7
+Illinois,Sangamon,14
+Iowa,Polk,18
+Kentucky,Jefferson,15
+Kentucky,McCracken,8
+Maryland,Prince George's,3
+Massachusetts,Hampden,19
+Michigan,Kalamazoo,6
+Michigan,Kalamazoo,6
+Minnesota,Hennepin,32
+Nevada,Washoe,13
+New Jersey,Hudson,32
+New Jersey,Middlesex,20
+New Jersey,Union,16
+New York,Kings,48
+North Carolina,Forsyth,18
+North Carolina,Forsyth,23
+Ohio,Cuyahoga,36
+Ohio,Cuyahoga,31
+Ohio,Cuyahoga,11
+Ohio,Mahoning,2
+Oregon,Jackson,51
+Oregon,Lane,32
+Tennessee,Knox,27
+Tennessee,Shelby,7
+Utah,Salt Lake,20
+Utah,Utah,23
+Virginia,Arlington,16
+Virginia,Norfolk City,6
+West Virginia,Kanawha,8
+Alabama,Jefferson,5
+Arizona,Pima,13
+Arizona,Pima,11
+Arizona,Pima,5
+Colorado,Boulder,11
+Colorado,El Paso,31
+Colorado,El Paso,23
+Colorado,El Paso,9
+Colorado,Mesa,20
+Connecticut,Fairfield,24
+Florida,Broward,8
+Florida,Duval,11
+Florida,Duval,18
+Florida,Hillsborough,15
+Florida,Hillsborough,17
+Florida,Orange,9
+Florida,Palm Beach,18
+Florida,Pinellas,7
+Florida,Sarasota,7
+Hawaii,Honolulu,7
+Illinois,Cook,9
+Indiana,St. Joseph,17
+Kansas,Sedgwick,9
+Maryland,Baltimore,15
+Michigan,Wayne,7
+Missouri,St. Louis City,6
+Montana,Missoula,19
+Nebraska,Douglas,8
+Nebraska,Lancaster,23
+New Jersey,Burlington,45
+New Jersey,Camden,18
+New Jersey,Morris,17
+New Mexico,Bernalillo,54
+New Mexico,Bernalillo,10
+New Mexico,Bernalillo,16
+New York,New York,39
+New York,Niagara,6
+North Carolina,Forsyth,8
+Ohio,Cuyahoga,17
+Ohio,Cuyahoga,14
+Ohio,Cuyahoga,14
+Ohio,Cuyahoga,13
+Ohio,Summit,18
+Oregon,Lane,9
+Tennessee,Knox,39
+Utah,Salt Lake,9
+Utah,Utah,38
+Utah,Utah,16
+Virginia,Fairfax,47
+Virginia,Fairfax,9
+West Virginia,Brooke,6
+West Virginia,Hancock,5
+Arizona,Maricopa,33
+Colorado,Denver,19
+Colorado,El Paso,36
+Colorado,El Paso,24
+Colorado,El Paso,5
+Colorado,El Paso,20
+Connecticut,Fairfield,10
+District Of Columbia,District of Columbia,7
+Florida,Broward,15
+Florida,Broward,8
+Florida,Duval,6
+Florida,Miami-Dade,7
+Florida,Pinellas,15
+Georgia,Fulton,25
+Hawaii,Honolulu,6
+Illinois,Cook,19
+Illinois,Peoria,40
+Indiana,Allen,19
+Indiana,Allen,9
+Indiana,St. Joseph,20
+Indiana,Vigo,14
+Kansas,Sherman,0
+Kentucky,Jefferson,7
+Kentucky,McCracken,6
+Minnesota,Hennepin,13
+Minnesota,Stearns,22
+Missouri,Saint Louis,8
+Missouri,Taney,9
+Nebraska,Douglas,50
+Nevada,Douglas,8
+Nevada,Washoe,13
+New Jersey,Bergen,11
+New Jersey,Camden,8
+New Jersey,Hudson,30
+New Mexico,Dona Ana,11
+New Mexico,Sandoval,6
+North Carolina,Chatham,5
+North Carolina,Cumberland,10
+North Carolina,Forsyth,6
+North Carolina,Forsyth,6
+North Carolina,Mecklenburg,30
+Ohio,Hamilton,9
+Ohio,Stark,13
+Oklahoma,Comanche,13
+Tennessee,Davidson,18
+Vermont,Chittenden,3
+Virginia,Fairfax,6
+Virginia,Newport News City,11
+Washington,King,45
+Washington,King,35
+Washington,Thurston,32
+Wisconsin,Milwaukee,2
+Wisconsin,Milwaukee,7
+Country Of Mexico,CHIHUAHUA STATE,13
+Alabama,Montgomery,0
+Arizona,Maricopa,30
+Colorado,Larimer,16
+District Of Columbia,District of Columbia,22
+District Of Columbia,District of Columbia,13
+Florida,Broward,15
+Florida,Duval,10
+Florida,Pinellas,20
+Florida,Sarasota,36
+Hawaii,Honolulu,11
+Illinois,Cook,10
+Illinois,Cook,11
+Illinois,Madison,17
+Illinois,Madison,14
+Illinois,Will,1
+Kentucky,Jefferson,16
+Kentucky,Kenton,17
+Louisiana,East Baton Rouge,32
+Louisiana,East Baton Rouge,49
+Missouri,Jackson,2
+Nevada,Clark,15
+Nevada,Washoe,32
+New Jersey,Middlesex,25
+New Jersey,Union,49
+New Mexico,Bernalillo,6
+New York,Nassau,23
+North Carolina,Forsyth,19
+North Carolina,Gaston,19
+North Carolina,Wake,32
+Ohio,Franklin,13
+Ohio,Lake,20
+Ohio,Stark,10
+Utah,Salt Lake,13
+Utah,Utah,40
+Vermont,Chittenden,49
+Virginia,Fairfax,8
+Virginia,Richmond City,8
+Washington,King,25
+Washington,King,13
+Washington,Snohomish,40
+Washington,Spokane,19
+West Virginia,Ohio,16
+Wisconsin,Milwaukee,3
+Country Of Mexico,BAJA CALIFORNIA NORTE,14
+Alaska,Fairbanks North Star ,23
+Arizona,Maricopa,22
+Arizona,Maricopa,11
+Colorado,Denver,25
+Colorado,Weld,28
+Colorado,Weld,16
+Colorado,Weld,13
+Florida,Sarasota,15
+Hawaii,Honolulu,2
+Hawaii,Honolulu,13
+Iowa,Linn,9
+Kentucky,Bell,11
+Kentucky,Jefferson,10
+Massachusetts,Hampden,11
+Michigan,Oakland,11
+Missouri,Saint Louis,11
+Missouri,Saint Louis,6
+Missouri,Saint Louis,10
+Missouri,Saint Louis,6
+Nevada,Clark,6
+Nevada,Clark,19
+New Jersey,Essex,11
+New Jersey,Essex,13
+New Mexico,Bernalillo,6
+New York,Monroe,9
+North Carolina,Forsyth,9
+North Carolina,Mecklenburg,10
+North Carolina,Mecklenburg,36
+Ohio,Cuyahoga,8
+Ohio,Montgomery,6
+Ohio,Stark,7
+Oklahoma,Comanche,8
+Oklahoma,Oklahoma,30
+Oregon,Jackson,24
+Oregon,Multnomah,23
+Tennessee,Davidson,24
+Tennessee,Davidson,28
+Tennessee,Shelby,9
+Tennessee,Shelby,9
+Utah,Salt Lake,15
+Vermont,Rutland,15
+Virginia,Alexandria City,6
+Virginia,Richmond City,0
+Washington,Clark,15
+Washington,Clark,15
+Washington,Spokane,13
+Wisconsin,Milwaukee,5
+Wisconsin,Milwaukee,13
+Wisconsin,Milwaukee,10
+Puerto Rico,San Juan,18
+Country Of Mexico,BAJA CALIFORNIA NORTE,36
+Alaska,Anchorage ,39
+Arizona,Maricopa,7
+Arizona,Maricopa,31
+Colorado,Boulder,7
+Colorado,Denver,30
+Colorado,El Paso,11
+Florida,Hillsborough,20
+Florida,Hillsborough,11
+Florida,Orange,17
+Florida,Palm Beach,17
+Illinois,Cook,10
+Illinois,Will,2
+Indiana,Marion,19
+Iowa,Polk,11
+Maryland,Baltimore (City),18
+Massachusetts,Hampden,7
+Massachusetts,Suffolk,24
+Massachusetts,Worcester,24
+Minnesota,Ramsey,10
+Missouri,Greene,11
+Missouri,Jackson,8
+Missouri,St. Louis City,15
+Montana,Flathead,28
+Nebraska,Douglas,3
+Nevada,Clark,16
+Nevada,Clark,28
+Nevada,Douglas,14
+Nevada,Washoe,7
+New Jersey,Union,35
+New Mexico,Bernalillo,10
+New Mexico,Bernalillo,26
+New York,Erie,5
+New York,Monroe,1
+New York,New York,13
+New York,Niagara,5
+North Carolina,Durham,16
+North Carolina,Durham,18
+Ohio,Summit,11
+Oklahoma,Cleveland,16
+Oklahoma,Oklahoma,13
+Oregon,Deschutes,34
+Tennessee,Davidson,10
+Tennessee,Shelby,15
+Utah,Salt Lake,25
+Vermont,Chittenden,3
+Virginia,Fairfax,9
+Washington,Spokane,20
+Wisconsin,Milwaukee,2
+Wisconsin,Waukesha,3
+Puerto Rico,San Juan,17
+Country Of Mexico,BAJA CALIFORNIA NORTE,14
+Country Of Mexico,CHIHUAHUA STATE,34
+Alabama,Jefferson,5
+Arizona,Maricopa,18
+Arizona,Maricopa,66
+Arizona,Maricopa,22
+Arizona,Maricopa,25
+Colorado,Boulder,16
+Colorado,Boulder,14
+Colorado,El Paso,5
+Colorado,El Paso,28
+Florida,Broward,8
+Florida,Sarasota,11
+Florida,Sarasota,39
+Hawaii,Honolulu,11
+Hawaii,Honolulu,14
+Hawaii,Honolulu,17
+Illinois,Will,3
+Kentucky,Fayette,1
+Massachusetts,Worcester,6
+Michigan,Wayne,7
+Minnesota,Anoka,5
+Minnesota,Dakota,3
+Minnesota,Saint Louis,9
+Missouri,Jackson,8
+Missouri,Saint Louis,7
+Missouri,Saint Louis,2
+Nebraska,Douglas,8
+Nebraska,Lancaster,14
+Nebraska,Lancaster,8
+Nevada,Clark,0
+Nevada,Clark,15
+Nevada,Carson City,13
+New Jersey,Monmouth,19
+New Mexico,Bernalillo,20
+New Mexico,Dona Ana,30
+New York,Erie,9
+New York,Nassau,6
+New York,New York,10
+New York,Queens,7
+North Carolina,Mecklenburg,13
+Ohio,Jefferson,13
+Ohio,Montgomery,5
+Oklahoma,Comanche,3
+Oklahoma,Oklahoma,9
+Tennessee,Davidson,8
+Tennessee,Shelby,3
+Tennessee,Shelby,23
+Tennessee,Sullivan,13
+Utah,Weber,7
+Virginia,Fairfax,3
+Virginia,Norfolk City,14
+Washington,King,25
+West Virginia,Hancock,11
+Wisconsin,Waukesha,2
+Country Of Mexico,BAJA CALIFORNIA NORTE,17
+Alabama,Jefferson,17
+Alabama,Jefferson,6
+Alaska,Anchorage ,19
+Alaska,Anchorage ,18
+Arizona,Maricopa,22
+Colorado,Boulder,10
+Colorado,Larimer,18
+Connecticut,Fairfield,13
+Connecticut,Hartford,26
+Florida,Broward,11
+Florida,Palm Beach,3
+Florida,Pinellas,7
+Florida,Sarasota,22
+Illinois,Cook,7
+Illinois,Cook,24
+Indiana,Allen,11
+Iowa,Polk,18
+Kentucky,McCracken,0
+Louisiana,East Baton Rouge,9
+Massachusetts,Hampden,7
+Massachusetts,Hampden,8
+Massachusetts,Worcester,9
+Michigan,Kent,3
+Michigan,Wayne,11
+Michigan,Wayne,5
+Missouri,Jackson,6
+Montana,Flathead,9
+Montana,Missoula,11
+Nebraska,Douglas,18
+Nevada,Clark,0
+Nevada,Clark,0
+Nevada,Clark,18
+Nevada,Washoe,6
+Nevada,Washoe,24
+New Jersey,Bergen,24
+New Jersey,Camden,5
+New Jersey,Camden,2
+New Jersey,Essex,6
+New Jersey,Middlesex,11
+New Jersey,Union,15
+New Mexico,Dona Ana,14
+North Carolina,Mecklenburg,7
+Ohio,Hamilton,18
+Ohio,Summit,15
+Oklahoma,Tulsa,6
+Oregon,Multnomah,24
+Oregon,Multnomah,15
+Utah,Salt Lake,15
+Utah,Utah,14
+Utah,Utah,36
+Virginia,Hampton City,11
+Virginia,Richmond City,7
+Virginia,Richmond City,11
+Washington,King,15
+Washington,King,24
+Washington,King,26
+Washington,Pierce,14
+Washington,Spokane,16
+Washington,Thurston,18
+West Virginia,Brooke,7
+West Virginia,Brooke,3
+West Virginia,Ohio,7
+Wisconsin,Racine,7
+Wisconsin,Waukesha,3
+Country Of Mexico,BAJA CALIFORNIA NORTE,10
+Country Of Mexico,BAJA CALIFORNIA NORTE,33
+Country Of Mexico,CHIHUAHUA STATE,6
+Arizona,Maricopa,45
+Colorado,Denver,19
+Colorado,Jefferson,8
+Colorado,Mesa,28
+Connecticut,Fairfield,8
+Connecticut,Fairfield,13
+Connecticut,Hartford,61
+Connecticut,New Haven,9
+District Of Columbia,District of Columbia,16
+District Of Columbia,District of Columbia,14
+Florida,Broward,8
+Florida,Hillsborough,7
+Florida,Miami-Dade,16
+Florida,Palm Beach,3
+Hawaii,Honolulu,3
+Illinois,Cook,32
+Illinois,Sangamon,10
+Illinois,Winnebago,17
+Indiana,Marion,16
+Kansas,Linn,10
+Kentucky,Fayette,3
+Kentucky,Fayette,1
+Kentucky,Jefferson,23
+Kentucky,Jefferson,20
+Louisiana,East Baton Rouge,50
+Massachusetts,Hampden,34
+Massachusetts,Suffolk,7
+Michigan,Wayne,9
+Minnesota,Ramsey,14
+Minnesota,Saint Louis,17
+Minnesota,Stearns,13
+Missouri,Saint Louis,3
+Nebraska,Lancaster,18
+Nevada,Clark,1
+Nevada,Clark,7
+Nevada,Washoe,10
+Nevada,Washoe,17
+Nevada,Carson City,11
+New Jersey,Burlington,8
+New Mexico,Dona Ana,3
+New Mexico,Santa Fe,10
+New York,Kings,7
+New York,Nassau,6
+New York,Nassau,7
+New York,Onondaga,16
+North Carolina,Durham,5
+North Carolina,Forsyth,18
+North Carolina,Mecklenburg,16
+North Carolina,Wake,8
+Ohio,Cuyahoga,13
+Ohio,Montgomery,6
+Oklahoma,Tulsa,9
+Oregon,Jackson,38
+Oregon,Lane,25
+Oregon,Multnomah,7
+Tennessee,Shelby,11
+Tennessee,Shelby,10
+Virginia,Norfolk City,14
+Washington,King,8
+Washington,Spokane,32
+Wisconsin,Milwaukee,7
+Alabama,Jefferson,17
+Alaska,Fairbanks North Star ,24
+Alaska,Fairbanks North Star ,19
+Arizona,Pima,7
+Colorado,Denver,9
+Colorado,Jefferson,3
+Connecticut,Hartford,18
+Florida,Broward,11
+Florida,Broward,8
+Florida,Duval,8
+Florida,Duval,6
+Illinois,Saint Clair,14
+Kentucky,Boyd,9
+Maryland,Baltimore,5
+Massachusetts,Middlesex,10
+Massachusetts,Suffolk,10
+Michigan,Kent,5
+Minnesota,Dakota,6
+Minnesota,Ramsey,3
+Minnesota,Saint Louis,8
+Nevada,Clark,7
+Nevada,Clark,0
+Nevada,Washoe,22
+New Jersey,Hudson,19
+New Mexico,Bernalillo,33
+New Mexico,Bernalillo,22
+New Mexico,Bernalillo,1
+New York,Monroe,15
+New York,Onondaga,8
+New York,Queens,9
+North Carolina,Forsyth,10
+North Carolina,Forsyth,13
+North Carolina,Mecklenburg,10
+Ohio,Cuyahoga,1
+Ohio,Hamilton,2
+Ohio,Jefferson,24
+Ohio,Summit,6
+Ohio,Summit,8
+Oregon,Jackson,24
+Utah,Salt Lake,8
+Virginia,Fairfax,6
+Virginia,Alexandria City,10
+Virginia,Richmond City,5
+Virginia,Roanoke City,10
+Washington,King,9
+West Virginia,Hancock,17
+Puerto Rico,San Juan,34
+Puerto Rico,San Juan,16
+Puerto Rico,San Juan,7
+Country Of Mexico,BAJA CALIFORNIA NORTE,5
+Alaska,Anchorage ,15
+Alaska,Fairbanks North Star ,5
+Arizona,Maricopa,17
+Arizona,Maricopa,5
+Arizona,Pima,5
+Colorado,Jefferson,5
+Colorado,La Plata,5
+District Of Columbia,District of Columbia,31
+Florida,Orange,2
+Florida,Sarasota,20
+Illinois,Peoria,9
+Illinois,Saint Clair,9
+Illinois,Winnebago,8
+Indiana,Hendricks,10
+Indiana,Marion,9
+Kansas,Sedgwick,18
+Massachusetts,Worcester,9
+Michigan,Oakland,7
+Minnesota,Anoka,2
+Minnesota,Stearns,8
+Missouri,Greene,24
+Montana,Cascade,7
+Montana,Flathead,13
+Nevada,Clark,16
+Nevada,Clark,26
+Nevada,Washoe,25
+New Jersey,Camden,3
+New Jersey,Camden,3
+New Jersey,Monmouth,8
+New Mexico,Bernalillo,2
+Ohio,Cuyahoga,9
+Oklahoma,Oklahoma,7
+Virginia,Roanoke City,13
+Washington,King,11
+Washington,Spokane,16
+West Virginia,Hancock,3
+Puerto Rico,San Juan,17
+Puerto Rico,San Juan,19
+Country Of Mexico,BAJA CALIFORNIA NORTE,60
+Country Of Mexico,BAJA CALIFORNIA NORTE,28
+Country Of Mexico,BAJA CALIFORNIA NORTE,0
+Alabama,Jefferson,0
+Arizona,Maricopa,25
+Arizona,Maricopa,8
+Arizona,Maricopa,8
+Arizona,Pima,11
+Arizona,Pima,22
+Colorado,Adams,14
+Colorado,Adams,11
+Connecticut,Fairfield,7
+Florida,Sarasota,15
+Illinois,Cook,24
+Illinois,Winnebago,13
+Indiana,Hendricks,8
+Iowa,Linn,1
+Kansas,Sedgwick,8
+Massachusetts,Hampden,8
+Massachusetts,Middlesex,8
+Minnesota,Dakota,3
+Montana,Flathead,16
+Nevada,Washoe,17
+Nevada,Washoe,5
+New York,Monroe,8
+North Carolina,Forsyth,5
+Ohio,Jefferson,10
+Ohio,Stark,7
+Oregon,Lane,8
+Virginia,Fairfax,8
+Virginia,Richmond City,6
+Washington,Pierce,3
+Country Of Mexico,BAJA CALIFORNIA NORTE,13
+Country Of Mexico,BAJA CALIFORNIA NORTE,8
+Alaska,Anchorage ,15
+Arizona,Maricopa,11
+Arizona,Maricopa,9
+Arizona,Maricopa,22
+Arizona,Pima,13
+Colorado,Larimer,7
+Connecticut,Fairfield,14
+Connecticut,Hartford,6
+Connecticut,New Haven,7
+District Of Columbia,District of Columbia,22
+Florida,Duval,16
+Florida,Miami-Dade,7
+Florida,Miami-Dade,18
+Florida,Miami-Dade,8
+Florida,Orange,10
+Florida,Orange,6
+Florida,Pinellas,7
+Florida,Sarasota,19
+Georgia,DeKalb,7
+Georgia,Paulding,5
+Illinois,Sangamon,10
+Illinois,Winnebago,6
+Iowa,Polk,9
+Kansas,Linn,2
+Kansas,Sedgwick,6
+Massachusetts,Worcester,6
+Michigan,Wayne,7
+Minnesota,Anoka,0
+Minnesota,Dakota,3
+Minnesota,Ramsey,15
+Minnesota,Saint Louis,2
+Montana,Gallatin,13
+Montana,Yellowstone,30
+Nevada,Clark,0
+Nevada,Washoe,6
+New Jersey,Bergen,5
+New Jersey,Union,7
+New Mexico,Bernalillo,9
+New York,Albany,7
+New York,Bronx,10
+New York,Kings,14
+North Carolina,Guilford,13
+Ohio,Cuyahoga,10
+Ohio,Jefferson,10
+Ohio,Jefferson,6
+Ohio,Montgomery,8
+Oklahoma,Cleveland,14
+Virginia,Fairfax,7
+Puerto Rico,San Juan,28
+Country Of Mexico,CHIHUAHUA STATE,14
+Country Of Mexico,CHIHUAHUA STATE,25
+Ohio,Lake,6
+Montana,Gallatin,6
+Nevada,Washoe,5
+Puerto Rico,San Juan,10
+Illinois,Cook,3
+Nevada,Clark,10
+Nevada,Clark,13
+New Jersey,Union,5
+Virginia,Newport News City,2
+Arizona,Pima,8
+Alabama,Jefferson,9
+New Jersey,Union,9
+Massachusetts,Worcester,3
+Massachusetts,Worcester,5
+Nevada,Washoe,9
+Country Of Mexico,BAJA CALIFORNIA NORTE,2
+New York,Steuben,2
+Massachusetts,Essex,5
+New York,Erie,2
+Arizona,Maricopa,8
+Kansas,Sedgwick,7
+Alaska,Anchorage ,8
+Virginia,Richmond City,2
+Virginia,Alexandria City,8
+Arizona,Maricopa,22
+Arizona,Maricopa,11
+Arizona,Maricopa,7
+Colorado,Adams,7
+Florida,Miami-Dade,6
+Florida,Miami-Dade,17
+Georgia,DeKalb,2
+Georgia,Paulding,2
+Illinois,Cook,8
+Illinois,Cook,5
+Indiana,Allen,3
+Iowa,Polk,5
+Kansas,Sedgwick,3
+Kentucky,Jefferson,7
+Maryland,Baltimore (City),8
+Massachusetts,Middlesex,6
+Montana,Yellowstone,3
+Nevada,Clark,15
+Nevada,Washoe,8
+Nevada,Washoe,10
+Nevada,Washoe,3
+New Jersey,Bergen,8
+New Mexico,Bernalillo,15
+New York,Albany,5
+New York,New York,8
+North Carolina,Wake,19
+Ohio,Franklin,5
+Ohio,Lake,7
+Ohio,Summit,6
+Tennessee,Shelby,10
+Virginia,Fairfax,11
+Virginia,Fairfax,5
+Virginia,Norfolk City,3
+Virginia,Richmond City,1
+Country Of Mexico,BAJA CALIFORNIA NORTE,1
+Country Of Mexico,BAJA CALIFORNIA NORTE,3
+Country Of Mexico,CHIHUAHUA STATE,14
+Country Of Mexico,CHIHUAHUA STATE,8
+Montana,Gallatin,5
+Alaska,Anchorage ,11
+Colorado,Denver,7
+Illinois,Cook,2
+Arizona,Pima,6
+Ohio,Lake,2
+Colorado,Adams,5
+Arizona,Pima,8
+Arizona,Pima,3
+Alabama,Jefferson,0
+Montana,Yellowstone,8
+New Jersey,Hudson,6
+New Jersey,Camden,1
+Kansas,Sedgwick,6
+Nevada,Washoe,3
+Nevada,Washoe,13
+Georgia,DeKalb,8
+Maryland,Garrett,2
+Alabama,Jefferson,7
+Missouri,St. Louis City,3
+Country Of Mexico,BAJA CALIFORNIA NORTE,8
+Georgia,Paulding,3
+Missouri,Saint Louis,3
+Massachusetts,Worcester,6
+Colorado,Denver,6
+Colorado,Weld,7
+Ohio,Franklin,3
+Ohio,Summit,3
+Arizona,Pima,3
+New Mexico,Bernalillo,9
+Virginia,Arlington,2
+Virginia,Arlington,2
+Louisiana,East Baton Rouge,10
+Virginia,Virginia Beach City,3
+Virginia,Virginia Beach City,5
+Arizona,Maricopa,5
+Michigan,Kent,3
+Nevada,Douglas,0
+Alabama,Jefferson,20
+Arizona,Maricopa,16
+Oklahoma,Tulsa,7
+Nevada,Washoe,2
+Georgia,DeKalb,10
+New Jersey,Union,3
+Virginia,Henrico,3
+Virginia,Alexandria City,0
+Virginia,Alexandria City,3
+Florida,Broward,5
+Nevada,Washoe,2
+Indiana,Allen,5
+Alabama,Jefferson,8
+Alabama,Jefferson,7
+Arizona,Maricopa,17
+Arizona,Maricopa,28
+Arizona,Pima,6
+Colorado,El Paso,7
+Colorado,Jefferson,3
+Colorado,Larimer,10
+District Of Columbia,District of Columbia,22
+Florida,Hillsborough,13
+Florida,Hillsborough,3
+Florida,Miami-Dade,11
+Florida,Miami-Dade,7
+Florida,Palm Beach,14
+Georgia,Fulton,9
+Indiana,Hendricks,9
+Indiana,Hendricks,2
+Iowa,Polk,3
+Maryland,Baltimore,6
+Minnesota,Dakota,1
+Minnesota,Saint Louis,10
+Missouri,Jackson,9
+Missouri,Saint Louis,7
+Missouri,St. Louis City,16
+Montana,Flathead,13
+Montana,Gallatin,2
+Nebraska,Lancaster,11
+Nevada,Clark,7
+Nevada,Clark,3
+Ohio,Franklin,6
+Ohio,Hamilton,13
+Utah,Salt Lake,16
+Utah,Salt Lake,13
+Virginia,Hampton City,8
+Virginia,Roanoke City,10
+Country Of Mexico,BAJA CALIFORNIA NORTE,79
+Country Of Mexico,BAJA CALIFORNIA NORTE,18
+Montana,Gallatin,10
+Illinois,Winnebago,7
+Country Of Mexico,CHIHUAHUA STATE,23
+Ohio,Franklin,8
+Massachusetts,Hampden,6
+Illinois,Cook,5
+Minnesota,Hennepin,0
+Colorado,Mesa,6
+Arizona,Pima,10
+North Carolina,Wake,2
+West Virginia,Hancock,3
+Alabama,Jefferson,7
+Washington,Spokane,13
+Nebraska,Lancaster,6
+Alabama,Jefferson,6
+Nevada,Washoe,2
+Arizona,Maricopa,13
+Alabama,Jefferson,6
+Kansas,Wyandotte,3
+Nevada,Clark,3
+Maryland,Baltimore (City),5
+New York,Erie,11
+Vermont,Chittenden,6
+Missouri,St. Louis City,3
+Massachusetts,Worcester,7
+Illinois,Saint Clair,6
+Massachusetts,Essex,2
+Ohio,Cuyahoga,22
+Ohio,Lake,6
+Maryland,Baltimore,2
+Colorado,El Paso,6
+New York,New York,5
+New York,New York,7
+Nevada,Washoe,23
+Arizona,Pima,5
+Arizona,Maricopa,11
+Ohio,Preble,3
+Michigan,Wayne,2
+Michigan,Wayne,5
+Nevada,Washoe,5
+Michigan,Wayne,1
+Nevada,Washoe,8
+Colorado,La Plata,1
+New Jersey,Union,5
+Nevada,Washoe,6
+District Of Columbia,District of Columbia,8
+Wisconsin,Dodge,2
+New York,Erie,2
+Georgia,Paulding,3
+Massachusetts,Worcester,8
+Massachusetts,Suffolk,3
+Massachusetts,Essex,2
+Massachusetts,Hampden,2
+Alaska,Fairbanks North Star ,6
+North Carolina,Mecklenburg,5
+Virginia,Alexandria City,3
+Oklahoma,Tulsa,3
+New Jersey,Essex,7
+Arizona,Pima,6
+Country Of Mexico,CHIHUAHUA STATE,3
+West Virginia,Hancock,3
+Alaska,Fairbanks North Star ,16
+Connecticut,Fairfield,5
+Montana,Lewis and Clark,1
+Nevada,Washoe,5
+Florida,Miami-Dade,2
+Georgia,DeKalb,2
+Alabama,Jefferson,3
+Puerto Rico,Ponce,5
+Nevada,Washoe,7
+New York,Erie,6
+Indiana,Allen,7
+New York,Bronx,3
+Missouri,St. Louis City,3
+Montana,Gallatin,2
+Ohio,Franklin,3
+Ohio,Cuyahoga,7
+Nevada,Clark,3
+New Mexico,Bernalillo,2
+Louisiana,East Baton Rouge,8
+Michigan,Wayne,2
+New Jersey,Hudson,6
+Oregon,Multnomah,2
+Kentucky,Jefferson,3
+Kentucky,Jefferson,3
+Indiana,Vanderburgh,5
+Vermont,Rutland,3
+Michigan,Wayne,3
+Michigan,Wayne,8
+Florida,Miami-Dade,3
+Kansas,Wyandotte,3
+Florida,Duval,6
+Nevada,Washoe,2
+West Virginia,Hancock,3
+Oregon,Washington,6
+Maryland,Dorchester,2
+Oklahoma,Adair,2
+Illinois,Saint Clair,5
+Colorado,Denver,13
+Ohio,Hamilton,6
+New Jersey,Essex,7
+Tennessee,Shelby,2
+Louisiana,East Baton Rouge,2
+Louisiana,East Baton Rouge,3
+Florida,Miami-Dade,3
+Connecticut,Fairfield,5
+Michigan,Kent,8
+Alabama,Jefferson,8
+Connecticut,Hartford,2
+Connecticut,Hartford,5
+Vermont,Rutland,6
+Michigan,Wayne,5
+Tennessee,Blount,2
+Maryland,Howard,6
+Indiana,Marion,3
+Colorado,La Plata,2
+Georgia,DeKalb,8
+Alabama,Jefferson,3
+Kansas,Wyandotte,3
+Virginia,Henrico,1
+New York,Steuben,1
+Tennessee,Shelby,3
+New York,Albany,2
+New York,Albany,3
+New York,Erie,1
+New York,Bronx,2
+Indiana,Lake,15
+Missouri,St. Louis City,7
+Oklahoma,Adair,2
+Ohio,Belmont,2
+Ohio,Hamilton,5
+Nevada,Clark,2
+Florida,Orange,3
+Tennessee,Shelby,2
+North Carolina,Mecklenburg,5
+Washington,King,3
+Minnesota,Dakota,6
+Vermont,Chittenden,5
+Nevada,Washoe,2
+Connecticut,New Haven,5
+Ohio,Cuyahoga,10
+Michigan,Wayne,3
+Michigan,Wayne,7
+Missouri,St. Louis City,3
+Tennessee,Davidson,5
+New Mexico,Bernalillo,2
+Utah,Weber,8
+New Jersey,Hudson,6
+Illinois,Saint Clair,3
+Oklahoma,Oklahoma,3
+New York,Steuben,2
+Virginia,Hampton City,5
+New York,Monroe,5
+Tennessee,Shelby,5
+Indiana,Vanderburgh,6
+Ohio,Montgomery,5
+Arizona,Maricopa,14
+Arizona,Pima,5
+North Carolina,Wake,5
+Hawaii,Honolulu,7
+Kansas,Wyandotte,2
+Puerto Rico,Guaynabo,5
+Colorado,La Plata,1
+Utah,Utah,0
+Colorado,Denver,3
+Washington,King,9
+Oklahoma,Oklahoma,9
+Puerto Rico,San Juan,13
+Ohio,Preble,2
+District Of Columbia,District of Columbia,5
+Hawaii,Honolulu,2
+Utah,Salt Lake,6
+Vermont,Chittenden,2
+Indiana,Marion,3
+Arizona,Maricopa,5
+Missouri,St. Louis City,5
+Alabama,Jefferson,5
+Puerto Rico,Bayamon,6
+Oklahoma,Oklahoma,9
+Connecticut,New Haven,2
+Connecticut,Litchfield,1
+Florida,Broward,7
+Missouri,St. Louis City,5
+District Of Columbia,District of Columbia,9
+Colorado,Weld,1
+Georgia,Fulton,7
+New Mexico,Bernalillo,6
+Colorado,Denver,3
+Arizona,Maricopa,0
+Puerto Rico,Caguas,7
+Wisconsin,Milwaukee,3
+Wisconsin,Milwaukee,3
+Utah,Salt Lake,3
+Massachusetts,Suffolk,5
+Florida,Broward,5
+Florida,Broward,8
+Montana,Gallatin,2
+Arizona,Maricopa,13
+Arizona,Maricopa,17
+Louisiana,East Baton Rouge,2
+Louisiana,East Baton Rouge,3
+Puerto Rico,Ponce,6
+New Mexico,Bernalillo,1
+Alaska,Fairbanks North Star ,2
+Michigan,Wayne,5
+Ohio,Belmont,3
+Hawaii,Honolulu,2
+Minnesota,Dakota,0
+West Virginia,Brooke,5
+Florida,Miami-Dade,5
+Florida,Broward,6
+Missouri,St. Louis City,3
+Arizona,Maricopa,7
+Tennessee,Davidson,5
+Puerto Rico,Ponce,14
+Virginia,Hampton City,3
+Florida,Pinellas,1
+Tennessee,Shelby,5
+Minnesota,Hennepin,1
+Florida,Duval,5
+Ohio,Preble,2
+Arizona,Maricopa,5
+Washington,King,6
+Colorado,Denver,5
+Kentucky,Jefferson,5
+Massachusetts,Suffolk,9
+Colorado,Adams,3
+Colorado,Mesa,2
+Arizona,Maricopa,1
+Arizona,Maricopa,5
+Nevada,Washoe,10
+Iowa,Scott,2
+Iowa,Scott,3
+Michigan,Wayne,3
+New Jersey,Hudson,10
+Iowa,Polk,3
+Kentucky,Jefferson,2
+Indiana,Vanderburgh,3
+Michigan,Wayne,5
+Michigan,Wayne,10
+Michigan,Wayne,6
+Florida,Miami-Dade,3
+Maryland,Howard,3
+Indiana,Marion,5
+Nebraska,Douglas,2
+Alabama,Jefferson,3
+New York,Bronx,7
+Missouri,St. Louis City,5
+New York,Erie,0
